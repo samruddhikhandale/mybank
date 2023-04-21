@@ -1,3 +1,4 @@
+TEST
 # Paying with Mybank or PayPal on the web
 
 <p>
